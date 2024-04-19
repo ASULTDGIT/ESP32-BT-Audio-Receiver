@@ -2,8 +2,8 @@
 Code to turn your esp32 into a bluetooth audio receiver utilising pin 25,26 and the internal DAC. Compiled in Arduino IDE.
 
 ## Ensure you have the following libraries installed:
-https://github.com/pschatzmann/ESP32-A2DP
-https://github.com/pschatzmann/arduino-audio-tools
+- https://github.com/pschatzmann/ESP32-A2DP
+- https://github.com/pschatzmann/arduino-audio-tools
 
 ## Change the following to suit your boards button layout:
 
